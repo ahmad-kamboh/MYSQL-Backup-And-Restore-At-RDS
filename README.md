@@ -1,4 +1,4 @@
-# MYSQL-Backup-And-Restore-At-RDS
+
 # 🚀 MySQL Backup and Restore to AWS RDS
 
 This project demonstrates a complete end-to-end solution to install MySQL on an Amazon EC2 instance, download sample data, perform backups using `mysqldump`, and restore the data to an Amazon RDS MySQL instance.
