@@ -33,6 +33,7 @@ This setup is intended for training and demonstration purposes, focusing on:
 
 ## 🏗️ Architecture
 
+![WhatsApp Image 2025-05-21 at 10 10 23_b0acc36b](https://github.com/user-attachments/assets/0f4b241c-d487-42ae-b099-2afa9ea76c25)
 
 ---
 
@@ -62,6 +63,7 @@ skip-grant-tables
 sudo systemctl restart mysqld.service
 mysql -V
 
+![WhatsApp Image 2025-05-21 at 10 07 33_c08c5f89](https://github.com/user-attachments/assets/a81d8638-7a41-4eac-9a0d-5fc7604b08f9)
 
 mysql -u root -p < mysqlsampledatabase.sql
 mysqldump -u root -p classicmodels > back_upfile.sql
